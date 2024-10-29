@@ -1,16 +1,11 @@
-## Hi there 👋
-환영합니다.
-<!--
-**psr8989/psr8989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTTYPE html>
+<html lang ="ko">
+<head>
+  <meta charset = "UTF-8">
+  <meta name = "viewport" content="widhth=device-width, initial-scale=1.0"
+  <title>파이게임</title>
+</head>
+<body>
+  <h1>안녕하세요</h1>
+  <p>pygame 클릭 후 수식을 복사하여 사용해 주세요.</p>
+</body>
