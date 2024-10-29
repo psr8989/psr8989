@@ -3,7 +3,12 @@
 <head>
   <meta charset = "UTF-8">
   <meta name = "viewport" content="widhth=device-width, initial-scale=1.0">
-  <h1>파이 게임</h1>
+  <style>
+    p { color : blue; }
+  </style>
+  <p>
+    <h1>파이 게임</h1>
+  </p>
 </head>
 <body>
   <h1>안녕하세요</h1>
