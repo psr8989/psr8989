@@ -4,7 +4,7 @@
 <head>
   <meta charset = "UTF-8">
   <meta name = "viewport" content="widhth=device-width, initial-scale=1.0">
-  <h1>파이 게임</h1>
+  <title>파이 게임</title>
   <style>
     p { color : blue; }
   </style>
